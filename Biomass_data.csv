@@ -1,0 +1,14 @@
+Treatment,GrassBiomass,LegumeBiomass,BrassicaBiomass
+100Brassica,0,0,5212.2
+100Grass,4128.25,0,0
+100Legume,0,3053.75,0
+15Brassica:15Grass:70Legume,1065.75,1814.75,1169.7
+15Brassica:15Legume:70Grass,3624.25,259,591.675
+15Grass:15Legume:70Brassica,971.25,297.5,2562.525
+33Brassica:33Grass:33Legume,2290.75,734.3,1772.75
+50Brassica:50Grass,3053.75,0,2149
+50Brassica:50Legume,0,1400,2910.25
+50Grass:50Legume,3158.925,1216.25,0
+Fallow,0,0,0
+ Stubble,0,0,0
+Stubble/4speciesmix,0,0,0
